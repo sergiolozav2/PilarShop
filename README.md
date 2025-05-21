@@ -1,10 +1,6 @@
-# E-Commerce website html css
+# Pilar Shop
 
-in this repository you will see an html css template for a cool designed e-commerce website.
-
-## :heavy_check_mark: useful for who:
-
--   wants to practice your html css skills
+This was made possible thanks to the wonderful person who created this template.
 
 ## :heavy_check_mark: Authors
 
